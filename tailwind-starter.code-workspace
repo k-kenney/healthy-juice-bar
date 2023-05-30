@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "dist"
+		},
+		{
+			"path": "node_modules"
+		}
+	],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "tailwind-starter",
+    "liveServer.settings.port": 5501
+  }
+}
